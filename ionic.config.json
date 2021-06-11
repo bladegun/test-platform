@@ -1,0 +1,7 @@
+{
+  "name": "test-platform",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
